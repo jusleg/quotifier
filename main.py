@@ -98,6 +98,7 @@ def bajson_quotes():
 	  ,"Wrong"
 	  ,"Such a nasty woman"
 	  ,"Bazinga!"
+	  ,"Wingardium leviosa"
 	]
 # We are what we repeatedly do; excellence, then, is not an act but a habit. - W@rri0r
 
