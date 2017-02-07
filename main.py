@@ -32,7 +32,7 @@ def do_the_whole_shabang(filename):
     full_file = full_file + line
     if (counter % modulo == 0):
     	full_file = full_file + smajson[filename[filename.index('.')+1:]] + " " + gen_quote() + "\n"
-	write_file(full_file,filename)
+  write_file(full_file,filename)
 # What is a private email server? - Operah Winfrey
 
 def smajson():
