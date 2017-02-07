@@ -40,7 +40,7 @@ def smajson():
 
 def author():
 # YES we can - Sarah Palin
-	return ["Ivanka Trump","Undertaker","John Cena","Triple H","Kane","Big Show","The Rock","Bing Han","Big Cass","Sarah Palin","Dj Khaled","21 Savage","Sugar Ray Robinson","Soulja Boy","Betsy DeVos","The Red Power Ranger","Operah Winfrey","W@rri0r","C3n@","Famingo","Ch@tM@n"]
+	return ["Ivanka Trump","Undertaker","John Cena","Triple H","Kane","Big Show","The Rock","Bing Han","Big Cass","Sarah Palin","Dj Khaled","21 Savage","Sugar Ray Robinson","Soulja Boy","Betsy DeVos","The Red Power Ranger","Operah Winfrey","W@rri0r"]
 
 def bajson_quotes():
 	return [             
@@ -99,6 +99,7 @@ def bajson_quotes():
 	  ,"Such a nasty woman"
 	  ,"Bazinga!"
 	  ,"You shall not pass!"
+	  ,"Wingardium leviosa"
 	]
 # We are what we repeatedly do; excellence, then, is not an act but a habit. - W@rri0r
 
