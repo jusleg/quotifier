@@ -40,7 +40,7 @@ def smajson():
 
 def author():
 # YES we can - Sarah Palin
-	return ["Ivanka Trump","Master Yoda","Stev-o","Wee-man","Albus Dumbledore","Satan","Momo Taleb","Clyde Frog","Undertaker","John Cena","Triple H","Kane","Big Show","The Rock","Bing Han","Big Cass","Sarah Palin","Dj Khaled","21 Savage","Sugar Ray Robinson","Soulja Boy","Betsy DeVos","The Red Power Ranger","Operah Winfrey","W@rri0r"]
+	return ["Ivanka Trump","Master Yoda","Stev-o","Wee-man","Albus Dumbledore","Satan","Momo Taleb","Clyde Frog","Undertaker","John Cena","Triple H","Kane","Big Show","The Rock","Bing Han","Big Cass","Sarah Palin","Dj Khaled","21 Savage","Sugar Ray Robinson","Soulja Boy","Betsy DeVos","The Red Power Ranger","Operah Winfrey"]
 
 def bajson_quotes():
 	return [             
