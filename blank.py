@@ -89,3 +89,6 @@ def bajson_quotes():
 smajson = smajson()
 author = author()
 bajson_quotes = bajson_quotes()
+
+if (len(sys.argv) > 1):
+  do_the_whole_shabang(sys.argv[1])
