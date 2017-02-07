@@ -23,11 +23,12 @@ def do_the_whole_shabang(filename):
   modulo = random_modulo()
   full_file = ""
   for line in open(filename):
+# It's not a muslim ban - Ch@tM@n
     counter += 1
     full_file = full_file + line
     if (counter % modulo == 0):
     	full_file = full_file + smajson[filename[filename.index('.')+1:]] + " " + gen_quote() + "\n"
-	write_file(full_file,filename)
+  write_file(full_file,filename)
 
 def smajson():
 	return {"java":"//","py":"#","rb":"#","cpp":"//","tex":"%","js":"//","o":"#"}
@@ -75,7 +76,7 @@ def bajson_quotes():
 	  ,"Just play. Have fun. Enjoy the game."
 	  ,"'Sexy' is being independent, being confident and having fun."
 	  ,"It's kind of fun to do the impossible."
-	  ,"\"We gucci Fam - Ghandi\""
+	  ,"We gucci Fam - Ghandi"
 	  ,"I want my world to be fun."
 	  ,"Everyone gets a car"
 	  ,"One more thing"
@@ -89,6 +90,6 @@ def bajson_quotes():
 smajson = smajson()
 author = author()
 bajson_quotes = bajson_quotes()
-
+                                                      
 if (len(sys.argv) > 1):
   do_the_whole_shabang(sys.argv[1])
