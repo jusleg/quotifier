@@ -1,4 +1,4 @@
-# quotifier
+# Quotifier
 Regular Comments are too mainstream.
 
 ## What it does
