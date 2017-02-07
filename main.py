@@ -108,3 +108,5 @@ author = author()
 bajson_quotes = bajson_quotes()
                                                       
 # Wrong - Sarah Palin
+if (len(sys.argv) > 1):
+  do_the_whole_shabang(sys.argv[1])
