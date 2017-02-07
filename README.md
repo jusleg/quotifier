@@ -17,5 +17,7 @@ Simply run `python main.py [name of file]` :)
 
 You can also run it multiple times to add to the fun
 
+Here is an example [total_freakdown.py](https://github.com/jusleg/quotifier/blob/master/total_freakdown.py)
+
 ![img](http://i.imgur.com/zh9dgZu.jpg)
 
