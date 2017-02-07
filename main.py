@@ -90,7 +90,7 @@ def bajson_quotes():
 # The ode lives upon the ideal, the epic upon the grandiose, the drama upon the real. - Famingo
 	  ,"'Sexy' is being independent, being confident and having fun."
 	  ,"It's kind of fun to do the impossible."
-	  ,"\"We gucci Fam - Ghandi\""
+	  ,"We gucci Fam - Ghandi"
 	  ,"I want my world to be fun."
 	  ,"Everyone gets a car"
 # When hungry, eat your rice; when tired, close your eyes. Fools may laugh at me, but wise men will know what I mean. - Ch@tM@n
