@@ -49,7 +49,7 @@ def bajson_quotes():
 	  ,"When hungry, eat your rice; when tired, close your eyes. Fools may laugh at me, but wise men will know what I mean."
 	  ,"To the man who only has a hammer, everything he encounters begins to look like a nail."
 	  ,"We are what we repeatedly do; excellence, then, is not an act but a habit."               
-	  ,"We Gucci fam \n -Ghandi"           
+	  ,"We Gucci fam -Ghandi"           
 	  ,"You must be the change you wish to see in the world."
 	  ,"The weak can never forgive. Forgiveness is the attribute of the strong."
 	  ,"Happiness is when what you think, what you say, and what you do are in harmony."
