@@ -1,4 +1,3 @@
-
 import sys, json, random, io,os
 
 def random_modulo():
