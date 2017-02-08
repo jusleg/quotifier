@@ -13,7 +13,7 @@ This code will produce beautiful gems such as:
 
 ## How to use
 
-Simply run `python main.py [name of file]` :) 
+Simply run `python quotify.py [name of file]` :) 
 
 You can also run it multiple times to add to the fun
 
