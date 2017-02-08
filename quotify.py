@@ -1,5 +1,5 @@
 # Import some goodies
-import sys, json, random, io,os
+import sys, json, random,os
 
 # Genereate a random number between 5 and 15
 def random_modulo():
