@@ -13,7 +13,7 @@ def gen_quote():
 
 # Write to file
 def write_file(stringy_string,namy_name):
-	#removes file path from namy_name
+    #removes file path from namy_name
     os.remove(namy_name)
     text_file = open(namy_name, "w")
     text_file.write(stringy_string)
