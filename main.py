@@ -16,7 +16,7 @@ def gen_quote():
                                                       
 def write_file(stringy_string,namy_name):
 # The richest man is not he who has the most, but he who needs the least. - Soulja Boy
-	os.remove(namy_name)
+	os.remove(namy_name) #removes file path from name_name
 	text_file = open(namy_name, "w")
 	text_file.write(stringy_string)
 	text_file.close()
