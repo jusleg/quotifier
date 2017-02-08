@@ -40,12 +40,13 @@ def smajson():
 
 def author():
 # YES we can - Sarah Palin
-	return ["Ivanka Trump","Master Yoda","Stev-o","Wee-man","Albus Dumbledore","Satan","Momo Taleb","Clyde Frog","Undertaker","John Cena","Triple H","Kane","Big Show","The Rock","Bing Han","Big Cass","Sarah Palin","Dj Khaled","21 Savage","Sugar Ray Robinson","Soulja Boy","Betsy DeVos","The Red Power Ranger","Operah Winfrey"]
+	return ["Ivanka Trump","The Purple Teletubby","Dog The Bount Hunter","Master Yoda","Abe Lincoln","Stev-o","Wee-man","Albus Dumbledore","Satan","Momo Taleb","Clyde Frog","Undertaker","John Cena","Triple H","Kane","Big Show","The Rock","Bing Han","Big Cass","Sarah Palin","Dj Khaled","21 Savage","Sugar Ray Robinson","Soulja Boy","Betsy DeVos","The Red Power Ranger","Oprah Winfrey"]
 
 def bajson_quotes():
 	return [             
 	  "The ode lives upon the ideal, the epic upon the grandiose, the drama upon the real."
 # You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty. - Betsy DeVos
+	  ,"If we don't study the mistakes of the future we're doomed to repeat them for the first time."
 	  ,"I love hookers and blow."
 	  ,"C++ supports OOP"
 	  ,"You can do anything, but not everything."
