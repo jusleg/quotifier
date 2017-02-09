@@ -22,6 +22,6 @@ def boringify(filename):
 			full_file = full_file + line
 	write_file(full_file,filename)
 
-	#Run the script on the output file
+#Run the script on the output file
 if (len(sys.argv) > 1):
     boringify(sys.argv[1])
