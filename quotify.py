@@ -28,7 +28,7 @@ def do_the_whole_shabang(filename):
         counter += 1
         full_file = full_file + line
         if (counter % modulo == 0):
-            full_file = full_file + smajson[filename[filename.index('.')+1:]] + " " + gen_quote() + "\n"
+            full_file = full_file + smajson[filename[filename.index('.')+1:]] + '"' + gen_quote() + '"\n'
     write_file(full_file,filename)
 
 #Import Authors, Quotes, and File Extensions

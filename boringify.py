@@ -16,11 +16,13 @@ def write_file(stringy_string,namy_name):
 
 # MaGiC
 def boringify(filename):
-	full_file = ""
-	for line in open(filename):		
-		if (line[0] != smajson[filename[filename.index('.')+1:]]):
-			full_file = full_file + line
-	write_file(full_file,filename)
+    quote = smajson[filename[filename.index('.')+1:]]
+    full_file = ""
+    for line in open(filename):		
+        print line[:2]
+        if (line[:2] != (quote+'"') ):
+            full_file = full_file + line
+    write_file(full_file,filename)
 
 #Run the script on the output file
 if (len(sys.argv) > 1):
